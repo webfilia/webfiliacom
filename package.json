@@ -1,7 +1,7 @@
 {
 	"name": "webfilia",
 	"version": "9.0.0",
-	"description": "A starter repository for a blog web site using the Eleventy site generator.",
+	"description": "webfilia.",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
