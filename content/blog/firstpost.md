@@ -1,11 +1,13 @@
 ---
-title: Mi primera publicación.
+title: Mi primera publicación de prueba.
 description: Esta es la primera publicación de webfilia.
 date: 2026-02-10
 tags: webfilia
 ---
 
 ## ¿Qué somos?
+
+Somos esto
 
 
 
