@@ -11,11 +11,12 @@
     <name>Your Name</name>
   </author>
   <entry>
-    <title>Mi primera publicación.</title>
+    <title>Mi primera publicación de prueba.</title>
     <link href="https://example.com/eleventy-base-blog/blog/firstpost/" />
     <updated>2026-02-10T00:00:00Z</updated>
     <id>https://example.com/eleventy-base-blog/blog/firstpost/</id>
     <content type="html">&lt;h2 id=&quot;que-somos&quot;&gt;¿Qué somos?&lt;/h2&gt;
+&lt;p&gt;Somos esto&lt;/p&gt;
 &lt;pre class=&quot;language-diff-css&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-diff-css&quot;&gt;&lt;span class=&quot;token unchanged language-css&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token selector&quot;&gt;// this is a command
 &lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;.prueba&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
 &lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 1px solid red&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
